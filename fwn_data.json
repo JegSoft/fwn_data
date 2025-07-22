@@ -1,0 +1,118 @@
+{
+  "lastUpdate": 1690035600000,
+  "title": "How are you today ?",
+  "message": "FREE WEB NOTES is completely free, no data is collected, no payment is requested. It’s totally free, friendly, totally reliable, it fully respects your privacy. If you find it useful, consider supporting the project by donating via PayPal, Buy Me a Coffee, Bitcoin, or visiting the links below. - If you’re a Bitcoin Billionaire feeling generous today, how about tossing some 100 BTC ? Sharing is caring, right ? 🤣 For business or other requests, write to: email@email.com. Thanks for being awesome.",
+  "links": [
+    {
+      "name": "Jeg Soft Official Website",
+      "url": "https://youtube.com",
+      "description": "Product viable for buying aaaa"
+    },
+    {
+      "name": "Go to YouTube page",
+      "url": "https://youtube.com",
+      "description": "What about our affiliate program bbb"
+    },
+    {
+      "name": "Go to Instagram Page",
+      "url": "https://youtube.com",
+      "description": "Visit our affiliate cccc"
+    }
+  ],
+  "donateButtons": [
+    {
+      "type": "donatebutton1",
+      "title": "Donate Bitcoin",
+      "url": "bc1q37e7wkd0ttv0fc4cdx6cm0fck2hnd08v0ue9fw"
+    },
+    {
+      "type": "donatebutton2",
+      "title": "Donate via PayPal",
+      "url": "https://google.com"
+    },
+    {
+      "type": "donatebutton3",
+      "title": "Buy Me a Coffee",
+      "url": "https:///google.com"
+    }
+  ],
+  "exceptions": [
+    {
+      "exception": "mymailaccount.co.uk",
+      "mainDomain": "dailymail.co.uk"
+    },
+    {
+      "exception": "accounts.google.com",
+      "mainDomain": "google.com"
+    },
+    {
+      "exception": "myaccount.google.com",
+      "mainDomain": "google.com"
+    },
+    {
+      "exception": "login.facebook.com",
+      "mainDomain": "facebook.com"
+    },
+    {
+      "exception": "login.live.com",
+      "mainDomain": "live.com"
+    },
+    {
+      "exception": "login.microsoftonline.com",
+      "mainDomain": "microsoftonline.com"
+    },
+    {
+      "exception": "accounts.spotify.com",
+      "mainDomain": "spotify.com"
+    },
+    {
+      "exception": "login.yahoo.com",
+      "mainDomain": "yahoo.com"
+    },
+    {
+      "exception": "accounts.snapchat.com",
+      "mainDomain": "snapchat.com"
+    },
+    {
+      "exception": "account.apple.com",
+      "mainDomain": "apple.com"
+    },
+    {
+      "exception": "my.linkedin.com",
+      "mainDomain": "linkedin.com"
+    },
+    {
+      "exception": "accounts.epicgames.com",
+      "mainDomain": "epicgames.com"
+    },
+    {
+      "exception": "signin.aws.amazon.com",
+      "mainDomain": "amazon.com"
+    },
+    {
+      "exception": "aws.amazon.com",
+      "mainDomain": "amazon.com"
+    },
+    {
+      "exception": "my.adobe.com",
+      "mainDomain": "adobe.com"
+    },
+    {
+      "exception": "account.origin.com",
+      "mainDomain": "origin.com"
+    },
+    {
+      "exception": "account.jetbrains.com",
+      "mainDomain": "jetbrains.com"
+    }
+  ],
+  "threePartTlds": [
+    "co.uk",
+    "org.uk",
+    "ac.uk",
+    "gov.uk",
+    "ac.jp",
+    "co.jp",
+    "go.jp"
+  ]
+}
