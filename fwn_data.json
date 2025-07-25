@@ -38,6 +38,10 @@
   ],
   "exceptions": [
     {
+      "exception": "mail.google.com",
+      "mainDomain": "youtube.com"
+    },
+    {
       "exception": "mymailaccount.co.uk",
       "mainDomain": "dailymail.co.uk"
     },
