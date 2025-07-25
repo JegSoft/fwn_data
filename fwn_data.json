@@ -33,14 +33,10 @@
     {
       "type": "donatebutton3",
       "title": "Buy Me a Coffee",
-      "url": "https:///google.com"
+      "url": "https://google.com"
     }
   ],
   "exceptions": [
-      {
-      "exception": "mail.google.com",
-      "mainDomain": "youtube.com"
-    },
     {
       "exception": "mymailaccount.co.uk",
       "mainDomain": "dailymail.co.uk"
