@@ -42,8 +42,12 @@
       "exception": "mymailaccount.co.uk",
       "mainDomain": "dailymail.co.uk"
     },
-    {
+	{
       "exception": "accounts.google.com",
+      "mainDomain": "google.com"
+    },
+	{
+      "exception": "consent.google.com",
       "mainDomain": "google.com"
     },
     {
