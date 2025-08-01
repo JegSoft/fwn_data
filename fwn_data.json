@@ -34,7 +34,7 @@
     {
       "type": "donatebutton3",
       "title": "Buy Me a Coffee",
-      "https://buymeacoffee.com/jegsoft"
+      "url": "https://buymeacoffee.com/jegsoft"
     }
   ],
   "exceptions": [
